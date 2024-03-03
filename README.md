@@ -26,6 +26,8 @@ git clone https://github.com/ReoF777/PingPo
 cd PingPo
 python main.py
 ```
+![Demo Play](images/main.png "Play")
+
 
 ## Controls
 
