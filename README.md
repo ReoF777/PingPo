@@ -15,13 +15,17 @@ This project is a classic block-breaking game created using Pygame. It is an ide
 1. Install Python: [https://www.python.org/](https://www.python.org/)
 2. Install the necessary Pygame library:
 
-## pip install pygame
+```
+pip install pygame
+```
+
 3. Clone the repository and run the main game file:
 
-git clone your-repository-url.git
-cd your-repository-directory
+```
+git clone https://github.com/ReoF777/PingPo
+cd PingPo
 python main.py
-
+```
 
 ## Controls
 
